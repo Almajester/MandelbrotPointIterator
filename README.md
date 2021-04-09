@@ -1,5 +1,3 @@
-MandelSketch.pde
-
 A Java/Processing application allowing one to iterate a point explicitly
 using the Mandelbrot set iteration, to interactively watch the convergence
 or divergence of a set/non-set point beneath the mouse.
