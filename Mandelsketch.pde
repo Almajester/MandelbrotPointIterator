@@ -84,4 +84,6 @@ void draw() {
   // draw filled circle at initial c in red
   fill(255, 0, 0);
   ellipse(cx*height/2.2 + width/2, cy*height/2.2 + height/2, 10, 10);
+  
+  text("(" + cx + ", " + cy + ")", 20, height - 30);
 }
